@@ -54,6 +54,6 @@ function organisefn(dirpath){
         }
     }
   else{
-    console.log("Please enter a valid path which is exist in your computer")
+    console.log("Please enter a valid path which is exist in your computer");
   }
 }
